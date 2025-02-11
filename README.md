@@ -57,4 +57,4 @@ flutter test
 
 ---
 
-**Desenvolvido com ❤️ por [Victor Rodrigues Novais](https://github.com/victorb132)**
+**Desenvolvido por [Victor Rodrigues Novais](https://github.com/victorb132)**
