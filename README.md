@@ -1,4 +1,4 @@
-# 📱 Flutter Hive API Example
+# 📱 Brisa teste Flutter
 
 Este projeto é um exemplo de aplicativo Flutter que consome uma API REST, exibe os dados em uma lista e os armazena localmente usando **Hive** para cache. Ele também inclui testes unitários para garantir a confiabilidade da lógica de negócios.
 
